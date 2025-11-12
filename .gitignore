@@ -1,0 +1,43 @@
+# ==============================
+# IntelliJ IDEA / Java Project
+# ==============================
+
+# Compiled class files
+*.class
+
+# IntelliJ project files
+.idea/
+*.iml
+out/
+
+# Eclipse artifacts (caso use outra IDE)
+.classpath
+.project
+.settings/
+bin/
+
+# NetBeans artifacts
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# VS Code config
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build tools
+target/
+build/
+
+# Optional: folder for screenshots or local docs (não subir pro GitHub)
+prints/
