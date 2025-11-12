@@ -17,4 +17,4 @@ Este repositório contém um exemplo prático de criptografia e descriptografia 
 #### Alunos:
 Ana Beatriz Fernandes Caldeira da Silva  
 Luis Fernando Gama de Oliveira
-FATEC - DSM 5
+- FATEC - DSM 5
