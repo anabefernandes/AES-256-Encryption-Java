@@ -1,4 +1,4 @@
-# AES-256 Encryption in Java
+# AES-256
 
 Este repositório contém um exemplo prático de criptografia e descriptografia usando o algoritmo **AES-256** no modo **GCM**, com **padding PKCS#7**, desenvolvido em **Java**.
 
